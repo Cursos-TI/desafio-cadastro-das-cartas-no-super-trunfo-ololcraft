@@ -110,4 +110,5 @@ int main() {
     printf("PIB per cap 1: %d X %d :PIB per cap 2\n", pibpercap1 > pibpercap2, pibpercap2 > pibpercap1);
     printf("super poder 1: %d X %d :super poder 2\n", superpoder1 > superpoder2, superpoder2 > superpoder1);
 
+    return 0;
 }
